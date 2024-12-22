@@ -9,13 +9,15 @@ The **Fetal Health Prediction Project** is an innovative machine learning applic
 4. **Scalable Containerization**: Dockerized the entire application, ensuring it runs consistently across various environments without dependency issues.
 5. **Cloud Deployment**: Deployed the Dockerized application on **DigitalOcean**, offering high availability, scalability, and robust performance.
 
-## Technical Stack
-- **Programming Languages**: Python, Bash
-- **Machine Learning Libraries**: Scikit-learn, Pandas, NumPy
-- **Frontend Framework**: Streamlit
-- **Containerization Tool**: Docker
-- **Hosting Platform**: DigitalOcean
-- **Version Control**: GitHub
+
+## Project URL
+
+
+- **Streamlit Framework**: [Streamlit App](https://fetalhealthpredictions-qdbtjznyny7yiihajb7hzo.streamlit.app/)
+- **Project Video**: [Project Demo](https://drive.google.com/file/d/1h-g_TDYRGYXTqCnfyU7ui0VPGSgDMcyq/view?usp=sharing)
+- **API Framework**: [FastAPI Service](http://134.122.119.149:8002/)
+- **DAGSHUB**: [MLflow](https://dagshub.com/HariniMurugan-2003/Fetal_health_Fall24.mlflow/#/experiments/0)
+
 
 ## Project Workflow
 1. **Data Input**: Users upload clinical datasets containing features like heart rate, uterine contractions, and fetal movement.
